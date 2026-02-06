@@ -1,0 +1,11 @@
+{
+    "name": "kollus/multidrm-sample",
+    "description": "Kollus Multi-DRM PHP Sample",
+    "require": {
+        "php": "^7.3|^8.0",
+        "firebase/php-jwt": "^6.10"
+    },
+    "config": {
+        "optimize-autoloader": true
+    }
+}
